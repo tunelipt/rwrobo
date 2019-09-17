@@ -1,5 +1,5 @@
 require(XMLRPC)
-
+require(abstractmov)
 
 
 #' Criar conexão com robô cartesiano
